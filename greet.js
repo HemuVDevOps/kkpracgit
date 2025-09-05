@@ -1,9 +1,11 @@
 console.log("hello world")
-function add (){}[D
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+function add (){
   consle.log("hello from function ")
 }
 add();
-[A[C[C[C[C[C[;
 
+
+function hello(){
+	console.log("namste bagunara")
+}
+hello();
