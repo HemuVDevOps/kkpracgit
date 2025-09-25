@@ -9,3 +9,6 @@ function hello(){
 	console.log("namste bagunara")
 }
 hello();
+
+console.log("og movie is super hit")
+
