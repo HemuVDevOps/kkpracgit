@@ -38,4 +38,7 @@ echo "$j"
 done
 
 
-
+for i in 1 2 3 55 6 
+do
+	echo "$i"
+done
