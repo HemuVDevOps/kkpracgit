@@ -6,3 +6,5 @@ function ramana(){
 		console.log("og from sujith")
 }
 	ojas();
+let b=99
+let c=80;
