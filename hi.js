@@ -7,3 +7,4 @@ function ramana(){
 }
 	ojas();
 let a=99
+let b=99
