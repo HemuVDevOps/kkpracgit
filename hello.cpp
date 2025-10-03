@@ -2,7 +2,8 @@
 using namespace std;
 int main(){
 	int a=99;
-	cout<<a;
+	cout<<a<<endl;
+	cout<<"hello world"<<endl;
+	cout<<"hii"<<endl;
 }
-
 
