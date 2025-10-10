@@ -6,8 +6,8 @@ function ramana(){
 		console.log("og from sujith")
 }
 	ojas();
+let a=99
 let b=99
-let c=80;
 
 writing code in c++
 
