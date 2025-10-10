@@ -9,5 +9,6 @@ function ramana(){
 let a=99
 let b=99
 
-writing code in c++
+//writing code in c++
+console.log("hi nanyan garu ela unnaru ")
 
