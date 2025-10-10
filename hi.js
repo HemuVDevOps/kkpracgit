@@ -8,3 +8,6 @@ function ramana(){
 	ojas();
 let b=99
 let c=80;
+
+writing code in c++
+
